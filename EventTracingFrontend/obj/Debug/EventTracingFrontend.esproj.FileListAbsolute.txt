@@ -1,0 +1,2 @@
+C:\MXC\EventTracing\EventTracingFrontend\obj\Debug\EventTracingFrontend.esproj.SuggestedBindingRedirects.cache
+C:\MXC\EventTracing\EventTracingFrontend\obj\Debug\EventTracingFrontend.esproj.CoreCompileInputs.cache
